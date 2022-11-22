@@ -12,3 +12,8 @@
 | Name                  | Link                                                                                                   | Remarks |
 | --------------------- | ------------------------------------------------------------------------------------------------------ | ------- |
 | AlphaGo Zero Tutorial | [Part 1](https://www.youtube.com/watch?v=MPXGiowUr0o&list=PLWzQK00nc192L7UMJyTmLXaHa3KcO0wBT&index=12) |         |
+
+### MuZero
+| Name   | Link                                                                                                  | Remarks |
+| ------ | ----------------------------------------------------------------------------------------------------- | ------- |
+| MuZero | [Part 1](https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a) |         |
