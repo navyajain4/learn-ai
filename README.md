@@ -7,6 +7,7 @@
 | --------------------------------- | -------------------------------------------------- | ------- |
 | Udacity's Monte Carlo Tree Search | https://www.youtube.com/watch?v=onBYsen2_eA        |         |
 |                                   | https://www.youtube.com/watch?v=4rVXxSD2DIM&t=187s |         |
+| Blog about MCTS                   | [Monte Carlo Tree Search Application on Chess](https://medium.com/@ishaan.gupta0401/monte-carlo-tree-search-application-on-chess-5573fc0efb75) | Read only the introduction |
 
 ### AlphaGo
 | Name                  | Link                                                                                                   | Remarks |
