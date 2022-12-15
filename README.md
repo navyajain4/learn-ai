@@ -1,5 +1,13 @@
 # Learn Artificial Intelligence
 
+## Machine Learning
+
+| Name                              | Link                                               | Remarks |
+| --------------------------------- | -------------------------------------------------- | ------- |
+| Maximum likelihood principle      | https://medium.com/delta-force/principle-of-maximum-likelihood-6def03e5f268#:~:text=The%20principle%20of%20maximum%20likelihood,reaching%20the%20%E2%80%9Ctrue%E2%80%9D%20model.        |         |
+
+
+ 
 ## Artificial Intelligence
 
 ### Monte Carlo Tree Search
