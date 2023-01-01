@@ -6,7 +6,7 @@
 | --------------------------------- | -------------------------------------------------- | ------- |
 | Maximum likelihood principle      | [Part 1 of Blog](https://medium.com/delta-force/principle-of-maximum-likelihood-6def03e5f268#:~:text=The%20principle%20of%20maximum%20likelihood,reaching%20the%20%E2%80%9Ctrue%E2%80%9D%20model.)        |         |
 | Kernel trick                      | https://www.youtube.com/watch?v=Q7vT0--5VII         | ------- |
-
+| Stanford CS229 Machine Learning Fall 2019 | https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh | |
 
 
 
